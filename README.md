@@ -65,12 +65,15 @@ Type any of these in the chat:
 
 ---
 
-🕯️ Future Plans
+## 🕯️ Future Plans
 
 This is the first version of GhostBot-Web.
 In the future, I’d love to add more responses, deeper interactions, and maybe even some new spooky features to make it feel more alive (or... undead). 👻
 
 any feedback is welcome!
+
+
+---
 
 Created by PetraType ♥
 because even ghosts need someone to talk to.
