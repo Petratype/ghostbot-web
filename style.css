@@ -1,0 +1,44 @@
+body {
+    background-color: #1a1a1a;
+    color: #f5f5f5;
+    font-family: 'Courier New', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 400px;
+    max-width: 90%;
+}
+
+#chat-box {
+    border: 2px solid #f5f5f5;
+    padding: 10px;
+    height: 400px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    background-color: #111;
+}
+
+.message {
+    margin: 5px 0;
+}
+
+.user {
+    color: #8ae234;
+}
+
+.bot {
+    color: #729fcf;
+}
+
+#user-input {
+    width: 70%;
+    padding: 5px;
+}
+
+#send-btn {
+    padding: 5px 10px;
+}
