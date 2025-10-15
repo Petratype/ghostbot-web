@@ -6,7 +6,9 @@ This project began as a way for me to practice building chatbots — and it turn
 
 GhostBot-Web lets you scan your home for paranormal activity, perform digital cleanses, or summon magical (and slightly unhinged) spirits when you’re feeling lonely — all from your browser! :)
 
-🌐 **Live demo:** [coming soon]
+🌐 **Live demo:** 
+
+https://petratype.github.io/ghostbot-web
 
 ---
 
@@ -52,10 +54,12 @@ Type any of these in the chat:
 ## 🪄 How to Run Locally
 
 1. Clone this repo:
+
+
    ```bash
    git clone https://github.com/Petratype/ghostbot-web.git
-   cd ghostbot-web
-```
+   cd ghostbot-web```
+
 
 2. Open index.html in your browser — and let the haunting begin!
 
